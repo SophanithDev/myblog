@@ -6,6 +6,7 @@ html,
 body {
   margin: 0;
   padding: 0;
+  font-family: Helvetica, Arial, sans-serif;
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch;
 }
@@ -547,11 +548,6 @@ footer {
     transform: translate(13px,-1px) skew(-13deg); 
   }
 }
-
-
-body{
-  font-family: Helvetica, Arial, sans-serif;
-}
 .container{
   width: 50%;
   
@@ -607,7 +603,6 @@ body{
 .bar.back::before{
   background-color: #24739b;
 }
-
 .bar.learning::before{
   width: calc(20% - 10px);
 }
