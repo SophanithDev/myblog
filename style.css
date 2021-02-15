@@ -30,10 +30,10 @@ h1.section-heading {
 }
 
 #about {
-  height: 93vh;
+  height:100vh;
   max-height: 900px;
   min-height: 300px;
-  background: url("images/bk.jpg")
+  background: url("images/background.jpg")
     no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
