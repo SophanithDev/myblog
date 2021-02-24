@@ -584,7 +584,7 @@ footer {
   font-size: 14px;
   color: #FFF;
   font-weight: bold;
-  text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
 }
 .bar::before{
   content:  attr(data-skill);
@@ -620,7 +620,6 @@ footer {
 .btn-one {
 	transition: all 0.3s;
 	position: relative;
-  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.247);
 }
 .btn-one span {
 	transition: all 0.3s;
