@@ -516,7 +516,7 @@ footer {
   align-items: center;
   justify-content: center;
   margin: 0;
-  color: white;
+  color: #278258;
   font-size: 70px;
   font-family: 'Fira Mono', monospace;
   letter-spacing: -7px;
@@ -664,8 +664,20 @@ footer {
 	opacity: 0;	
 	transform: scale(0.1, 1);
 }
-.dark-mode{
-  background-color: black;
-  color: #EEE;
+
+.botn {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+}
+
+.botn:hover {
+  background-color: #d64d4d;
+  color: white;
 }
 
