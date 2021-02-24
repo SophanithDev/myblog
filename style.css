@@ -9,6 +9,7 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch;
+  color: #fff;
 }
 
 .iOSfix {
@@ -515,7 +516,7 @@ footer {
   align-items: center;
   justify-content: center;
   margin: 0;
-  color: rgb(0, 0, 0);
+  color: white;
   font-size: 70px;
   font-family: 'Fira Mono', monospace;
   letter-spacing: -7px;
@@ -662,5 +663,9 @@ footer {
 .btn-one:hover::after {
 	opacity: 0;	
 	transform: scale(0.1, 1);
+}
+.dark-mode{
+  background-color: black;
+  color: #EEE;
 }
 
