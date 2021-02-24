@@ -620,6 +620,7 @@ footer {
 .btn-one {
 	transition: all 0.3s;
 	position: relative;
+  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.247);
 }
 .btn-one span {
 	transition: all 0.3s;
@@ -669,6 +670,7 @@ footer {
   background-color: #ddd;
   border: none;
   color: black;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 16px 32px;
   text-align: center;
   font-size: 16px;
