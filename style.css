@@ -10,6 +10,7 @@ body {
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch;
   color: #fff;
+  user-select: none;
 }
 
 .iOSfix {
@@ -41,6 +42,7 @@ h1.section-heading {
   -o-background-size: cover;
   background-size: cover;
   background-attachment: scroll;
+
 }
 
 .navbar-brand {
