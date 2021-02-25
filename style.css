@@ -306,11 +306,6 @@ footer a.nav-link:hover {
   color: #fff;
 }
 
-#coded {
-}
-
-
-
 /* Media queries */
 
 @media screen and (min-width: 768px) {
@@ -509,8 +504,6 @@ footer {
   display: flex;
   flex-flow: row wrap;
 }
-
-@import url('https://fonts.googleapis.com/css?family=Fira+Mono:400');
 
 .boy{ 
   display: flex;
